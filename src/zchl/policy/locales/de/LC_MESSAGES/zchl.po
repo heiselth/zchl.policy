@@ -1,0 +1,31 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# Localisation for the zchl portal.
+# Thomas Heisel <heiselth@mx.uni-saarland.de>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: zchl.policy 1.0\n"
+"POT-Creation-Date: 2014-01-22 09:21+0000\n"
+"PO-Revision-Date: 2014-01-22 09:21+0000\n"
+"Last-Translator: Thomas Heisel <heiselth@mx.uni-saarland.de>\n"
+"Language-Team: de <heiselth@mx.uni-saarland.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: de\n"
+"Language-Name: Germany\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: zchl\n"
+
+#: zchl.policy/src/zchl/policy/profiles/default/actions.xml
+msgid "Disclaimer"
+msgstr "Haftungsausschluss"
+
+#: zchl.policy/src/zchl/policy/profiles/default/actions.xml
+msgid "Imprint"
+msgstr "Impressum"
+
+#: zchl.policy/src/zchl/policy/profiles/default/actions.xml
+msgid "Privacy policy"
+msgstr "Datenschutzerklärung"
+

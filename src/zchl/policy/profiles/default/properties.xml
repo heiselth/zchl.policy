@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<site>
+ <property name="title">ZChL-online</property>
+ <property
+    name="description">Web-Portal des zentralen Chemikalienlagers der Uni Saarland</property>
+ <property name="email_from_address"
+    type="string">zchl@rz.uni-sb.de</property>
+ <property name="email_from_name" type="string">ZChL-Webportal</property>
+ <property name="enable_permalink" type="boolean">True</property>
+</site>
+
