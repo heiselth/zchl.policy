@@ -3,6 +3,7 @@
   <version>1.0</version>
 <dependencies>
     <dependency>profile-zchl.basetheme:default</dependency>
+    <dependency>profile-plone.app.ldap:ldap</dependency>
     <dependency>profile-zchl.shop:default</dependency>
 </dependencies>
 </metadata>

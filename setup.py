@@ -41,6 +41,7 @@ setup(name='zchl.policy',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
+          'plone.app.ldap',
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""
